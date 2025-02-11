@@ -1,5 +1,10 @@
-body {
-    text-align: center;
+html, body {
+    padding-left: 15px;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* Horizontal center */
+    align-items: center; /* Vertical center */
+    text-align: center; /* Centers inline text */
 }
 
 article {
